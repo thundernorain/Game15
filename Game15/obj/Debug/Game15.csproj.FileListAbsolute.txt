@@ -1,0 +1,10 @@
+E:\Artur\VisualStudioProjects\Game15\Game15\bin\Debug\Game15.exe.config
+E:\Artur\VisualStudioProjects\Game15\Game15\bin\Debug\Game15.exe
+E:\Artur\VisualStudioProjects\Game15\Game15\bin\Debug\Game15.pdb
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.FormGame15.resources
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.cache
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.exe
+E:\Artur\VisualStudioProjects\Game15\Game15\obj\Debug\Game15.pdb
